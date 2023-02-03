@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ##Copywrite
 
 All rights Reserved.
+Upadting an emergency fix after the first stashing
