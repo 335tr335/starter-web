@@ -16,3 +16,4 @@
 
 
     Please leave a review if you like this file
+    Updating example for multiple stashing files
